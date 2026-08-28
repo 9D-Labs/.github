@@ -1,18 +1,20 @@
 # 9D Labs
 
-We work on memory to support intelligent systems. We also ponder on theory and its applications.
+We are a research lab studying what makes data learnable, how models turn it into capability, and how
+that understanding can improve the way data is collected and used for the systems we have now and
+the ones still to come. We begin in robotics.
 
-### Papers & open research
+Our public spectral work:
 
-- [Spectral Asymptotics of Neural Network Loss Landscapes](https://github.com/9D-Labs/9d-spectral-alignment-decomposition) - exact decomposition of the curvature exponent
-- [Spectral PAC-Bayes](https://github.com/9D-Labs/9d-spectral-pac-bayes) - generalization bounds through spectral methods
-- [Backward Bottleneck](https://github.com/9D-Labs/9d-backward-bottleneck) - information flow during training
-- [Kronecker Spectral Identity](https://github.com/9D-Labs/9d-kronecker-spectral-identity) - structured Hessian decompositions
+- [Spectral Alignment Decomposition](https://github.com/9D-Labs/9d-spectral-alignment-decomposition) — how representation spectra become gradient and curvature spectra
+- [Kronecker Spectral Identity](https://github.com/9D-Labs/9d-kronecker-spectral-identity) — the structured spectral geometry of layer gradients
+
+
 
 ### Get in touch
 
-[9dlabs.xyz](https://9dlabs.xyz) · founders@9dlabs.xyz
+[9dlabs.xyz](https://9dlabs.xyz) · [founders@9dlabs.xyz](mailto:founders@9dlabs.xyz)
 
 ---
 
-*Last updated June 24, 2026*
+*Last updated August 28, 2026*
